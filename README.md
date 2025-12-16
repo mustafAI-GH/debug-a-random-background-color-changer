@@ -1,1 +1,6 @@
-# debug-a-random-background-color-changer
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Debug a Random Background Color Changer**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
